@@ -5,7 +5,7 @@ print("Hello, World!")
 
 # Add two numbers
 a = 5
-b = 7
+b = 8
 sum = a + b
 
 # Print the result
